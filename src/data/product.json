@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "dep_productos" : "Detergente para ropa",
+        "dep_precio": "$1500",
+        "dep_stock": "En stock",
+        "category": "Ropa",
+        "img" : "https://farmaciadelpuebloar.vtexassets.com/arquivos/ids/160247-800-800?v=638059650996970000&width=800&height=800&aspect=true"
+
+    },
+    {
+        "id": 2,
+        "dep_productos" : "Limpiador multiusos",
+        "dep_precio": "$2500",
+        "dep_stock": "En stock",
+        "category": "Pisos",
+        "img" : "https://farmacityar.vteximg.com.br/arquivos/ids/209475-1000-1000/221635_limpiador-liquido-lysoform-original-x-12-x-800-ml_imagen-1.jpg?v=637552269471400000"
+    },
+    {
+        "id": 3,
+        "dep_productos" : "Limpiador de vidrios",
+        "dep_precio": "$650",
+        "dep_stock": "En stock",
+        "category": "Casa",
+        "img" : "https://limpioonline.vtexassets.com/arquivos/ids/159905/Cif-Vidrios-Limpiador-Multiuso-Gatillo-X-500-Ml..jpg?v=637801849399030000"
+    },
+    {
+        "id": 4,
+        "dep_productos" : "Desengrasante para cocina",
+        "dep_precio": "$800",
+        "dep_stock": "En stock",
+        "category": "Cocina",
+        "img" : "https://www.cif.com.ar/images/h0nadbhvm6m4/2r0o0qMTOcks7KZQfz908u/54eac717c870e612c3d52fe7e32c5eaa/Q2lmLUFudGlncmFzYS1HYXRpbGxvLnBuZw/1100w-1100h/cif-limpiador-l%C3%ADquido-gatillo-antigrasa.jpg"
+    },
+    {
+        "id": 5,
+        "dep_productos" : "Guantes",
+        "dep_precio": "$400",
+        "dep_stock": "En stock",
+        "category": "Cocina",
+        "img" : "https://byeg.com.ar/5055-large_default/guantes-de-limpieza-make-.jpg"
+    }, 
+    {
+        "id": 6,
+        "dep_productos" : "Suavizante",
+        "dep_precio": "$2500",
+        "dep_stock": "En stock",
+        "category": "Ropa",
+        "img" : "https://farmacityar.vteximg.com.br/arquivos/ids/227760-1000-1000/229608_suavizante-para-ropa-downy-mistico-x-500-ml_imagen-1.jpg?v=637974888407200000"
+    },
+    {
+        "id": 7,
+        "dep_productos" : "Mopa",
+        "dep_precio": "$3500",
+        "dep_stock": "En stock",
+        "category": "Pisos",
+        "img" : "https://acdn.mitiendanube.com/stores/001/171/204/products/99001-f3f1ad6d5974120fcf15983635861264-640-0.webp"
+    },
+    {
+        "id": 8,
+        "dep_productos" : "Perfume elixir",
+        "dep_precio": "$450",
+        "dep_stock": "En stock",
+        "category": "Casa",
+        "img" : "https://e00-telva.uecdn.es/assets/multimedia/imagenes/2022/04/20/16504228761425.png"
+    },
+    {
+        "id": 9,
+        "dep_productos" : "Cera",
+        "dep_precio": "$1200",
+        "dep_stock": "En stock",
+        "category": "Pisos",
+        "img" : "https://perfumeriaburbujas.com.ar/wp-content/uploads/blem-autobrillo-incoloro-2-lt.jpg"
+    },
+    {
+        "id": 10,
+        "dep_productos" : "Detergente",
+        "dep_precio": "$600",
+        "dep_stock": "En stock",
+        "category": "Cocina",
+        "img" : "https://www.cif.com.ar/images/h0nadbhvm6m4/2ukXACIbNQ9DeGusHgEIJm/68ecd35e7325206c2e54d65f31e71b55/Q2lmLURldGVyZ2VudGUtTGltYS5wbmc/1100w-1100h/cif-active-gel-detergente-lavavajilla-concentrado-lim%C3%B3n-verde.jpg"
+    },
+    {
+        "id": 11,
+        "dep_productos" : "Escoba",
+        "dep_precio": "$700",
+        "dep_stock": "En stock",
+        "category": "Pisos",
+        "img" : "https://saniprocr.com/wp-content/uploads/2021/05/escoba-eterna-Jumbo.jpg"
+    },
+    {
+        "id": 12,
+        "dep_productos" : "Desinfectante",
+        "dep_precio": "$500",
+        "dep_stock": "En stock",
+        "category": "Casa",
+        "img" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/602/902/products/lysoform1-bb47cd6b88963d379c16083180087243-640-0.webp"
+    }
+    
+]
